@@ -38,7 +38,7 @@ maxInputs = Inf;
 % checking for minumum number of arguments
 narginchk(minInputs,maxInputs);
 
-[~,n] = size(varargin);
+[~,n] = size(varargin); 
 
 % check the value of second argument == total # arguments or not?
 assert( (varargin{2}*2)+2== n,'Please make sure that you define correct number of arguments.');
