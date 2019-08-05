@@ -1,5 +1,7 @@
 # Mat2CST
-![Mat2CST](https://github.com/gowriRostock/Mat2CST/blob/master/logo_Mat2CST.png)
+<p align="center"> 
+<img src="https://github.com/gowriRostock/Mat2CST/blob/master/logo_Mat2CST.png">
+</p>
 
 CST STUDIO SUITE &reg; [1] is a powerful electromagnetic simulation software which has recently been updated with Multiphysics solvers to do coupled problem analysis. MATLAB &reg; [2] is ubiquitous in scientific research and analysis because of larger user base, easy to program, and may open source packages. Functionality of CST can be increase many fold by itegrating this with MATLAB. Mat2CST is a MATLAB toolbox developed to automate the CST, i.e. to control CST directly from MATLAB without using any intermediate VBA bas files. CST has many different solvers and currently Mat2CST toolbox can be used can be used to control most of the features of the **eigenmode solver**. In future, it is planned to include other solvers with the help of collaborators. If you are interested in collaborating and contributing to this project, please contact : gowrishankar.hallilingaiah@uni-rostock.de 
 
