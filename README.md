@@ -27,4 +27,3 @@ A best effort has been made to check and verify the code before release. However
 ## References
 1. CSTMICROWAVE STUDIO 2017. http://www.cst.com: CST AG, Darmstadt, Germany.
 2. MATLAB. (2017A). Natick, Massachusetts: The MathWorks Inc.
-3. 
