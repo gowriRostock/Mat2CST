@@ -24,6 +24,10 @@ If you find any error while using it, please use the stackoverflow place to writ
 ## Disclaimer
 A best effort has been made to check and verify the code before release. However, sometimes due to unforseen errors, the code might produce errors which might be due to the computer you are using or internal bugs in the COM interfaces. Also, note that, all the errors cannot be solved but only a workaround can be found.
 
+
+## Cite this work
+If you want to cite this work, please see the below DOI.
+[![DOI](https://zenodo.org/badge/200019230.svg)](https://zenodo.org/badge/latestdoi/200019230)
 ## References
 1. CSTMICROWAVE STUDIO 2017. http://www.cst.com: CST AG, Darmstadt, Germany.
 2. MATLAB. (2017A). Natick, Massachusetts: The MathWorks Inc.
