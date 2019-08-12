@@ -3,14 +3,14 @@
 <img src="https://github.com/gowriRostock/Mat2CST/blob/master/logo_Mat2CST.png">
 </p>
 
-CST STUDIO SUITE &reg; [1] is a powerful electromagnetic simulation software which has recently been updated with Multiphysics solvers to do coupled problem analysis. MATLAB &reg; [2] is ubiquitous in scientific research and analysis because of larger user base, easy to program, and may open source packages. Functionality of CST can be increase many fold by itegrating this with MATLAB. Mat2CST is a MATLAB toolbox developed to automate the CST, i.e. to control CST directly from MATLAB without using any intermediate VBA bas files. CST has many different solvers and currently Mat2CST toolbox can be used to control most of the features of **eigenmode solver**. In future, it is planned to include other solvers with the help of collaborators. If you are interested in collaborating and contributing to this project, please contact : gowrishankar.hallilingaiah@uni-rostock.de 
+CST STUDIO SUITE &reg; [1] is a powerful electromagnetic simulation software which has recently been updated with Multiphysics solvers to do coupled problem analysis. MATLAB &reg; [2] is ubiquitous in scientific research and analysis because of large user base, easy to program, and avaailability of many open source toolboxes. Functionality of CST can be increased many fold by itegrating with MATLAB. Mat2CST is a MATLAB toolbox developed to automate the CST, i.e. to control CST directly from MATLAB without using any intermediate VBA bas files. CST has many different solvers and currently Mat2CST can be used to control most of the features of **eigenmode solver**. In future, it is planned to include other solvers with the help of collaborators. If you are interested in collaborating and contributing to this project, please contact : gowrishankar.hallilingaiah@uni-rostock.de 
 
 ## Software and the compatible versions
 Foloowing softwares and versions are supported by this toolbox. 
 * MATLAB 2017A
 * CST STUDIO 2017
 
-**Note**: There is no gaurantee that the Mat2CST toolbox would work in lower or higher versions. However, usually with little modification Mat2CST can be adopted to work with other versions.
+**Note**: There is no gaurantee that the Mat2CST toolbox would work in lower or higher versions. However, usually with little modification to Mat2CST it can be adopted to work with other versions.
 
 ## Installing the toolbox
 To use the Mat2CST toolbox, you can simply download the code and place the code in a folder where MATLAB searches for the functions. Otherwise, you can use the below link to visit the "file exchange" where you can use the dropdown menu to select download from "github" and donwload the toolbox. Open the toolbox, install it and you are ready to go.
@@ -25,6 +25,6 @@ If you find any error while using it, please use the stackoverflow place to writ
 A best effort has been made to check and verify the code before release. However, sometimes due to unforseen errors, the code might produce errors which might be due to the computer you are using or internal bugs in the COM interfaces. Also, note that, all the errors cannot be solved but only a workaround can be found.
 
 ## References
-1. CST STUDIO SUITE 
-2. MATLAB
+1. CSTMICROWAVE STUDIO 2017. http://www.cst.com: CST AG, Darmstadt, Germany.
+2. MATLAB. (2017A). Natick, Massachusetts: The MathWorks Inc.
 3. 
